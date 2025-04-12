@@ -16,4 +16,4 @@
 
 ## 📬 Контакты
 - Email: dgor1802@gmail.com
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="100"/>](https://t.me/laharpe) 
+- [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="100"/>](https://t.me/laharpe) 
