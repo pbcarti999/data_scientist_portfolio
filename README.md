@@ -15,7 +15,7 @@
 - Люблю путешествия, яхты, общение, любить
 
 📫 **Как связаться:**  
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="100"/>](https://t.me/your_telegram)  — всегда рад новым знакомствам! 😊
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="100"/>](https://t.me/laharpe)  — всегда рад новым знакомствам! 😊
 
 ## 📝 Лицензия
 Этот проект распространяется под лицензией [MIT](LICENSE).
