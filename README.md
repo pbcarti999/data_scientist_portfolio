@@ -15,5 +15,5 @@
 - Люблю путешествия, яхты, общение
 
 ## 📬 Контакты
-- Email: dgor1802@gmail.com
+- Email: dmitrij.gorbunov.05@mail.ru
 - [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="100"/>](https://t.me/laharpe) 
